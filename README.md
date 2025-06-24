@@ -51,7 +51,7 @@ This is a sms expansion for the laravel
 
 ## 环境需求
 
-- PHP >= 7.2
+- PHP >= 8.0
 
 ## Installation
 
